@@ -17,6 +17,6 @@ Git push - To push the commited changes in Remote repository
 <br/>
 Git log - To see the old commits track & history
 <br/>
-Git branch - To create branch<br/>
+Git branch - To create branch
 <br/>
 Git show - To view expanded details on Git objects such as blobs, trees, tags and commits
